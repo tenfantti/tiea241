@@ -1,0 +1,99 @@
+﻿:
+Opiskelijaelämä voi olla välillä haastavaa. Olet opiskelija ja sinulla on suunnitelmana
+valmistua pian. Ainoastaan puuttuu enään ydinfysiikan kurssin tentti, jonka läpi pääsemällä
+pääset valmistumaan. Kaverisi painostivat sinua juhlistamaan tätä menemällä
+opiskelijabileisiin. Et ole käynyt pitkään aikaan opiskelijabileissä koska gradusi vei kaiken ajan 
+juhlimisesta. Kaverisi juottivat sinulle huomaamatta kirkasta viinaa, jonka vuoksi muistikuvia viime 
+yöltä ei ole. Selvisit juuri ja juuri kotiin kuppaiseen 
+opiskelijaboxiisi nukkumaan jossain kolmen ja kuuden välillä.
+Solukämppiksesi ei tykännyt, kun herätit hänet kolistelemalla ja oksentamalla hänen matolleen.
+---
+Olet pimeässä huoneessa. 
+Heräät ääneen. Se on herätyskello. Sinulla pian alkamassa ydinfysiikan viimeinen tenttikerta.
+Tämän jälkeen seuraavan kerran voi tenttiä ensi kesänä. Ei siis kannata jäädä nukkumaan, tai et valmistu.
+Tentti alkaa kello 08.00.
+Makaat sängyssä kauheassa krapulassa.
+
+Mitä teet?
+---
+>Jää nukkumaan.
+>paina torkkua.
+>Nouse ylös.
+---
+:
+Päätit jäädä nukkumaan vastoin neuvoamme. Et pääse valmistumaan ja edessäsi
+odottaa tulevaisuus narkkarina. Vaivuit ikuiseen uneen.
+---
+:
+Painoit torkkua, joka herättää sinut viiden minuutin päästä.
+Alkaa tulla kiire.
+
+Mitä teet?
+---
+>Nouse ylös. 
+>Jää nukkumaan.
+>Paina torkkua.
+---
+:
+Saat itsesi joten kuten nostettua jaloillesi, vaikkakin torkkuisena. 
+Kahvihammastasi kolottaa. Keittiöstäsi näkyy valo vasemmalla puolella olevasta 
+ovenraosta.
+---
+>Keitä kahvia.
+>Ei ole aikaa. Juokse tenttiin. 
+---
+:
+Napsauta kahvinkeittimen päälle ja kone alkaa iloisesti keittämään
+kahvia. Kello alkaa lähestyä viitta vaille kahdeksaa. Pitäisi lähteä
+jos haluat keretä tenttiin.
+---
+>Juo kahvi. 
+>Ota kahvi mukaan. 
+>Unohdat kahvin ja juokset. 
+---
+:
+Lähdit juoksemaan pyjamat päällä suoraan yliopistolle.
+Liukastuit, koska sinulla oli vain Reinot jalassa jäisellä tiellä.
+Onneksesi kaaduit alamäkeen ja liu'uit suoraan alas. Näinpä
+matkaan kului vähemmän aikaa, ja ehdit ajoissa tenttiin.
+---
+:
+Päätit jäädä juomaan kahvia ja miettimään elämän syntyjä syviä.
+Et kerennyt tenttiin ja tukehduit kahviisi, eikä kämppiksesi ehtinyt
+pelastaa sinua.
+---
+:
+Viisas päätös. Saatat jopa keretä tenttiin.
+Lähdet ulos ja pysähdyt hetkeksi miettimään sitä, millä
+pääsisit nopeiten tenttiin. Yliopistolle pääsisit pyörällä,
+mutta tiet ovat jäisiä ja pyörässäsi on kesärenkaat.
+Auto olisi mukavin, mutta et ole käyttänyt autoasi 
+katsastuksessa.
+---
+>Aja autolla.
+>Mene pyörällä.
+>Juokse tenttiin.
+---
+:
+Valitsit siis auton. Katsastamattomasta autosta
+ovat jarrut huonossa kunnossa, eikä niitä ole 
+korjattu vielä. Siispä tiukassa käännöksessä
+auto ei ehdi kääntyä, vaan vetää mutkat suoriksi
+ja lentää suoraan jyrkänteeltä alas. Kuolit pudotuksessa
+ja paikallislehti kirjoittaa sinusta varoittavan esimerkin
+juoppokuskista.
+---
+:
+Lähdit innokkaasti pyöräilemään alamäkeen.
+Pyörän renkaat eivät kestä jäätä kuten ajattelit, ja pyöräsi luisuu
+suoraan ajotielle. Rekka ei ehdi hidastamaan vauhtiaan ja ajaa päältäsi.
+Ohikulkijat soittavat ambulanssin, osa yrittää antaa jopa elvytystä
+mutta toivoa enää ei ole. Ruumiisi muistuttaa pannukakkua.
+---
+:
+Koetit painaa uudestaan torkku-painiketta, mutta krapulassa
+sorminäppäryytesi oli heikentynyt. Sen takia painoitkin vahingossa
+"poista hälytys"-painikkeesta etkä herännyt ajoissa tenttin.
+Et päässyt kurssista läpi, joten et pääse valmistumaan.
+Elämä on kurjaa.
+:

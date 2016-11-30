@@ -1,0 +1,5 @@
+S ->[negaatio]verbi[rinnastuskonjuktio]kohde
+verbi ->kato|painat|jatka|nouset|jää|mene|keitä|juo|ota|unohda|juokse|ole|nukkumaan
+kohde ->tentti|keittiö|kahvi|kello|torkku|auto|pyörä
+rinnastuskonjuktio ->ja
+negaatio ->ei 
